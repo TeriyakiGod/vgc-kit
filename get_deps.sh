@@ -17,3 +17,5 @@ sudo apt install libsdl2-gfx-dev  # SDL_gfx (optional)
 
 # Install NumPy (optional)
 sudo apt install python3-numpy
+
+sudo apt install python3-pygame
