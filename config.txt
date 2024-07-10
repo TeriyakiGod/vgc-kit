@@ -1,0 +1,2 @@
+dtoverlay=adafruit-st7735r,128x128=1,dc_pin=25,reset_pin=27,led_pin=24
+dtparam=spi=on
